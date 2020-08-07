@@ -1,6 +1,13 @@
 ### Hi, it's Marek! 👋
 
+I'm a creative and innovative javascript developer who is constantly looking for the way of improvements. 
 
+## Recent project
+Please check out my recently developed side project - www.DDiscounthero.com.
+This is application that helps monitoring favorite products (such as shoes, clothes, or groceries, anything that is available online) and notify you about any discounts on email and push notifications.
+
+## 📫 How to reach me: 
+Email: libikpl@gmail.com
 <!--
 **Libikk/Libikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
