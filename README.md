@@ -1,10 +1,13 @@
-### Hi, it's Marek! 👋
+### Hi, I am Marek! 👋
 
-I'm a creative and innovative javascript developer who is constantly looking for the way of improvements. 
+I'm a creative and innovative javascript developer who is constantly seeking improvement. 
 
 ## Recent project
-Please check out my recently developed side project - www.DDiscounthero.com.
-This is application that helps monitoring favorite products (such as shoes, clothes, or groceries, anything that is available online) and notify you about any discounts on email and push notifications.
+Please check out my recently developed site - www.DDiscounthero.com.
+DDiscounthero has been designed to help you monitor your favourite products (such as shoes, clothes, groceries or anything that is available online) and notify you about any discounts via email or push notifications.
+
+## About me
+I am a big fan of gym and developing smart home devices using raspberry pi or ESP8266 modules using C++
 
 ## 📫 How to reach me: 
 Email: libikpl@gmail.com
