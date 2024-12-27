@@ -1,13 +1,13 @@
-### Hi, I am Marek! 👋
+### 👋 Hi, I am Marek! 
 
-I'm a creative and innovative javascript developer who is constantly seeking improvement. 
+I'm a creative and innovative software engineer who is constantly seeking improvement. I specialize in the development of software around the web.
 
-## Recent project
-Please check out my recently developed site - www.DDiscounthero.com.
-DDiscounthero has been designed to help you monitor your favourite products (such as shoes, clothes, groceries or anything that is available online) and notify you about any discounts via email or push notifications.
+## 🔭 I’m currently working on...
+Please check out my recently developed SaaS product - www.FeedbackUI.com.
+Feedback UI is the app to help you get meaningful feedback on your web page.
 
-## About me
-I am a big fan of gym and developing smart home devices using raspberry pi or ESP8266 modules using C++
+## 💬 About me
+I am committed to the gym and healthy lifestyle and a big fan and developing smart home devices (IoT) using Raspberry Pi or ESP8266 modules such as (D1 mini)[https://www.wemos.cc/en/latest/d1/d1_mini.html]
 
 ## 📫 How to reach me: 
 Email: libikpl@gmail.com
