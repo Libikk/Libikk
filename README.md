@@ -7,7 +7,7 @@ Please check out my recently developed SaaS product - www.FeedbackUI.com.
 Feedback UI is the app to help you get meaningful feedback on your web page.
 
 ## 💬 About me
-I am committed to the gym and healthy lifestyle and a big fan and developing smart home devices (IoT) using Raspberry Pi or ESP8266 modules such as (D1 mini)[https://www.wemos.cc/en/latest/d1/d1_mini.html]
+I am committed to the gym and healthy lifestyle and a big fan and developing smart home devices (IoT) using Raspberry Pi or ESP8266 modules such as [D1 mini](https://www.wemos.cc/en/latest/d1/d1_mini.html)
 
 ## 📫 How to reach me: 
 Email: libikpl@gmail.com
